@@ -9,7 +9,6 @@ import java.util.UUID;
 @Data
 @Builder
 public class CustomerDTO {
-
     private UUID id;
     private String customerName;
     private Integer version;
